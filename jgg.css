@@ -1,0 +1,10 @@
+#id-div {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.square {
+    width: 29%;
+    margin: 1px;
+    float: left;
+}
