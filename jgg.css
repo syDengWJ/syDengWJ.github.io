@@ -1,15 +1,14 @@
 .wrap {
     background-color: #666;
     margin: auto;
-    width: 100%;
 }
 
 .square {
-    width: 29%;
+    width: 30%;
     height: 0;
-    padding-bottom: 29%;
-    background: yellow;
+    padding-bottom: 30%;
+    background: orange;
     border-radius: 10%;
     float: left;
-    margin: 5px;
+    margin: 1.5%;
 }
